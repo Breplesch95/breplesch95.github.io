@@ -50,3 +50,21 @@ A final way to add emphasis is to add **_both_** asterisks and underscores befor
 **EXAMPLE:**
 
 **_HELLO_** = * * _ HELLO _ * * (Withought spaces.)
+
+# How to make Blockquotes with multiple paragraphs
+
+To make Blockquotes with multiple paragraphs, you must use the '<' key in front of the word or phrase.
+
+**Example:**
+
+> Hello, this is a sentence
+>
+> Hello, this is another sentence.
+
+To make *Nested* Blockquotes, place two of '<' in front of the word or phrase.
+
+**Example:**
+
+> Hello, this is a sentence.
+>
+>> Hello, this is another sentence.
